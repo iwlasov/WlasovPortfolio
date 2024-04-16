@@ -1,5 +1,5 @@
 # Власов Вадим Олегович
-![](C:\1000WD\Нетология\Pyton - разработчик с нуля\02 Git - система контроля версий\WlasovPortfolio\foto.jpg)
+![](https://github.com/iwlasov/WlasovPortfolio/blob/main/foto.jpg)
 ## студент Нетологии на курсе Pyton - разработчик с нуля
 
 Модули курса:
