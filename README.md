@@ -4,10 +4,6 @@
 
 ![foto](https://github.com/iwlasov/WlasovPortfolio/assets/166127097/be68f940-e2cc-468b-8a8c-610ad57483d2)
 
-### и тут тоже
-
-![foto](https://github.com/iwlasov/WlasovPortfolio/blob/main/foto.jpg)
-
 ## студент Нетологии на курсе Pyton - разработчик с нуля
 
 Модули курса:
